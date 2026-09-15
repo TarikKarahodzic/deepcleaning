@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://dubinski-sjaj-dk.foggy-loom-8517.chatgpt.site"),
+  metadataBase: new URL("https://dubinski-sjaj-dk.tariktare.chatgpt.site"),
   title: "Dubinski sjaj DK | Dubinsko čišćenje Sarajevo",
   description: "Profesionalno dubinsko čišćenje namještaja u Sarajevu. Brzo, kvalitetno i pouzdano.",
   openGraph: {
